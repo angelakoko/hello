@@ -1,0 +1,24 @@
+h1
+{
+	color : whitesmoke;
+}
+
+body
+{
+	background-color : deeppink ;
+}
+
+#carte
+{
+	width: 800px;
+	margin:0 auto;
+	background-color: lightpink;
+	text-align: center;
+	align-content: center;
+}
+
+ul li
+{
+	list-style-type: none;
+}
+
